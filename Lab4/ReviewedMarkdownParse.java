@@ -1,4 +1,3 @@
-package LabReport4.Report4Code;
 
 // File reading code from https://howtodoinjava.com/java/io/java-read-file-to-string-examples/
 import java.io.IOException;
